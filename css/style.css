@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'avenir', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1 {
+  font-family: 'avenir', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: 'avenir', sans-serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 15px;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: 'avenir', sans-serif;
+  font-weight: bold;
+
+}
+
+a {
+  text-decoration: none;
+}
